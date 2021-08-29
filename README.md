@@ -8,8 +8,10 @@
  ## Results:
  Three key differences in weather between June and December
  
-  •	The count is June is 1700 vs 1517 in December which is about 11% reduction in count.
-  
+  •	The count in June is 1700 vs 1517 in December which is about 11% reduction in count.
+  ![June Temperature and Stast](https://user-images.githubusercontent.com/70987568/131262571-84fe70a5-4e3a-4c6a-851d-543bc6729d8d.png)
+![December Temperature and Stat](https://user-images.githubusercontent.com/70987568/131262574-7b0afe57-2f77-4e58-b5f1-2994cb0762f4.png)
+
   •	Minimum temperature in June is 64 and December is 56
   
   •	Standard deviation is 3.3 and 3.7 for June and December respectively.
