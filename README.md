@@ -8,8 +8,11 @@
  ## Results:
  Three key differences in weather between June and December
   •	The count is June is 1700 vs 1517 in December which is about 11% reduction in count.
+  
   •	Minimum temperature in June is 64 and December is 56
+  
   •	Standard deviation is 3.3 and 3.7 for June and December respectively.
+  
  ## Summary:
  The result showed that higher number will be interested in ice cream in June than December
  It will also enhance organization market research in reviewing  prospects in home delivery and site locations.
